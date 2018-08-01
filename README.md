@@ -11,4 +11,4 @@ dotnet tool install -g QRCodeTool
 
 ## Usage
 
-[![asciicast](https://asciinema.org/a/7ADMI7Y4AKRW3tm5je12CaYbB.png)](https://asciinema.org/a/7ADMI7Y4AKRW3tm5je12CaYbB)
+<img alt="Usage sample" title="Usage sample" src="https://user-images.githubusercontent.com/16840260/43495668-bb000e3e-950f-11e8-9e0b-67b41038efe5.gif" height="450"/>
